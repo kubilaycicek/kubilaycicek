@@ -1,7 +1,7 @@
 ### Hi there 👋 💻
 I'm a JAVA developer ! ☕
 
-
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/kubilaycicek/my-stack)
 <!--
 **kubilaycicek/kubilaycicek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
