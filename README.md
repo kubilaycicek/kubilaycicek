@@ -1,6 +1,11 @@
-### Hi there 👋 💻
-I'm a JAVA developer ! ☕
+### Hi! 👋
+I'm Kubilay ÇİÇEK. Software Engineer at [Linktera](https://www.linktera.com.tr/). 
+I love researching and developing.
 
+#### Talking about Personal Stuffs:
+- 👨🏽‍💻  I’m currently working on Java (Spring Framework, Springboot, Hibernate, NodeJs, Express Framework, Oracle Database, Sql Server, MySql Database)
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: kubilaycicek0693@gmail.com;
 
 <!--
 **kubilaycicek/kubilaycicek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
