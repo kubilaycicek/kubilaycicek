@@ -7,6 +7,9 @@ I love researching and developing.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: kubilaycicek0693@gmail.com;
 
+![](https://komarev.com/ghpvc/?username=kubilaycicek&color=red)
+
+
 <!--
 **kubilaycicek/kubilaycicek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
