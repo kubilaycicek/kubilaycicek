@@ -1,5 +1,5 @@
 ### Hi! 👋
-I'm Kubilay ÇİÇEK. Software Engineer at [Linktera](https://www.linktera.com.tr/). 
+I'm Kubilay ÇİÇEK. Software Engineer at [Turkcell](https://www.turkcell.com.tr/). 
 I love researching and developing.
 
 #### Talking about Personal Stuffs:
