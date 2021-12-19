@@ -3,7 +3,7 @@ I'm Kubilay ÇİÇEK. Software Engineer at [Turkcell](https://www.turkcell.com.t
 I love researching and developing.
 
 #### Talking about Personal Stuffs:
-- 👨🏽‍💻  I’m currently working on Java (Spring Framework, Springboot, Hibernate, NodeJs, Express Framework, Oracle Database, Sql Server, MySql Database)
+- 👨🏽‍💻  I’m currently working on Java 8 (Spring Framework, Springboot, Hibernate, NodeJs, Express Framework, Oracle Database, Sql Server, MySql Database)
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: kubilaycicek0693@gmail.com;
 
