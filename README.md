@@ -3,7 +3,7 @@ I'm Kubilay ÇİÇEK. Software Engineer at Softtech.
 I love researching and developing.
 
 #### Talking about Personal Stuffs:
-- 👨🏽‍💻  I’m currently working on Java 17 (Spring Framework, Springboot, Hibernate, NodeJs, Express Framework, Oracle Database, Sql Server, MySql Database)
+- 👨🏽‍💻  I’m currently working on Java 17 (Spring Framework, Spring Boot, Hibernate, NodeJs, Express Framework, Oracle Database, Sql Server, MySql Database, Kubernetes, Docker, Open Shift, Linux Server)
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: kubilaycicek0693@gmail.com;
 
